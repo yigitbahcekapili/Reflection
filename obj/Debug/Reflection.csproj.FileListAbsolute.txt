@@ -1,0 +1,6 @@
+c:\users\yigit\documents\visual studio 2015\Projects\Reflection\Reflection\bin\Debug\Reflection.exe.config
+c:\users\yigit\documents\visual studio 2015\Projects\Reflection\Reflection\bin\Debug\Reflection.exe
+c:\users\yigit\documents\visual studio 2015\Projects\Reflection\Reflection\bin\Debug\Reflection.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\Reflection\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+c:\users\yigit\documents\visual studio 2015\Projects\Reflection\Reflection\obj\Debug\Reflection.exe
+c:\users\yigit\documents\visual studio 2015\Projects\Reflection\Reflection\obj\Debug\Reflection.pdb
