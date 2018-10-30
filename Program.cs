@@ -10,7 +10,7 @@ namespace Reflection
 {
     class Program
     {
-        // Goto : GetCollectValue Fonksiyonu recursive yazılacak
+        // TODO : GetCollectValue Fonksiyonu recursive yazılacak
         static void Main(string[] args)
         {
             LolHero Vayne = new LolHero();
